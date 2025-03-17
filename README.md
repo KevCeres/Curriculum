@@ -45,3 +45,6 @@ If you can help us with these. Please don't hesitate to open a pull request.
 ## Reference
 
 Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+
+## Créditos
+Este proyecto está basado en el portafolio interactivo de [AjitVerma15](https://github.com/AjitVerma15/Interactive-Portfolio).
